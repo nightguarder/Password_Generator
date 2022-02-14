@@ -1,4 +1,5 @@
 from turtle import back
+import password
 
 print("Welcome to a password generator!\n")
-import password
+password.user_input()
