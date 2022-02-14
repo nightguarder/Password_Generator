@@ -50,5 +50,3 @@ def pass_generator(lenght):
         out.close()
         print(err)
         exit()
-
-user_input()
